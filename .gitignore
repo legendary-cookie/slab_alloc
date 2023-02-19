@@ -1,0 +1,4 @@
+/slab
+/.cache
+*.d
+*.o
